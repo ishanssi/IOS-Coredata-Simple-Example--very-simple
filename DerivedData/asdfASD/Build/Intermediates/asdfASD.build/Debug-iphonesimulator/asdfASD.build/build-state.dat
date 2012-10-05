@@ -1,0 +1,373 @@
+TasdfASD
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/asdfASD.app/Info.plist" asdfASD/asdfASD-Info.plist
+cProcessPCH "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/PrecompiledHeaders/asdfASD-Prefix-eycuhvzsfqdalmeovikbktzorijx/asdfASD-Prefix.pch.pth" asdfASD/asdfASD-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cDataModelVersionCompile "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/asdfASD.app/asdfASD.momd" "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/asdfASD/asdfASD.xcdatamodeld"
+cCompileC DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/Objects-normal/i386/main.o "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/asdfASD/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/Objects-normal/i386/Mainview.o "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/Mainview.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/Objects-normal/i386/AppDelegate.o "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/asdfASD/AppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/Objects-normal/i386/testclass.o "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/testclass.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/Objects-normal/i386/Person.o "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/Person.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/asdfASD.app/asdfASD" normal i386
+cGenerateDSYMFile "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/asdfASD.app.dSYM" "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/asdfASD.app/asdfASD"
+cCompileXIB "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/Mainview.xib"
+cCopyStringsFile "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/asdfASD.app/en.lproj/InfoPlist.strings" asdfASD/en.lproj/InfoPlist.strings
+cTouch "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/asdfASD.app"
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk
+c000000004F453DF80000000000000110
+t1329937912
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004F551CF800000000002DEF20
+t1330978040
+s3010336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004F551CFA0000000000244490
+t1330978042
+s2376848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004F551D040000000000353830
+t1330978052
+s3487792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004F551D250000000000905E40
+t1330978085
+s9461312
+
+N/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/PrecompiledHeaders/asdfASD-Prefix-eycuhvzsfqdalmeovikbktzorijx/asdfASD-Prefix.pch.pth
+t1349260915
+s4246480
+
+N/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/Objects-normal/i386/AppDelegate.o
+t1349261194
+s75484
+
+N/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/Objects-normal/i386/Mainview.o
+t1349428063
+s66776
+
+N/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/Objects-normal/i386/Person.o
+t1349416238
+s3000
+
+N/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/Objects-normal/i386/Sudent.o
+t1349413806
+s12532
+
+N/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/Objects-normal/i386/asdfASD.LinkFileList
+c00000000506E752E00000000000003AA
+t1349416238
+s938
+
+N/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/Objects-normal/i386/main.o
+t1349261194
+s3260
+
+N/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/Objects-normal/i386/testclass.o
+t1349335021
+s4652
+
+N/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/asdfASD.app
+t1349428063
+s272
+
+N/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/asdfASD.app.dSYM
+t1349428063
+s102
+
+N/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/asdfASD.app/Info.plist
+t1349260913
+s796
+
+N/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/asdfASD.app/Mainview.nib
+t1349261197
+s1430
+
+N/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/asdfASD.app/PkgInfo
+t1349260913
+s8
+
+N/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/asdfASD.app/asdfASD
+t1349428063
+s30624
+
+N/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/asdfASD.app/asdfASD.momd
+t1349416238
+s170
+
+N/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/asdfASD.app/en.lproj/InfoPlist.strings
+t1349260916
+s42
+
+N/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/Mainview.h
+c00000000506C16F9000000000000011A
+t1349261049
+s282
+
+N/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/Mainview.m
+c00000000506EA368000000000000132D
+t1349428072
+s4909
+
+N/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/Mainview.xib
+c00000000506C178A0000000000001C06
+t1349261194
+s7174
+
+N/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/Person.h
+c00000000506E7512000000000000017F
+t1349416210
+s383
+
+N/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/Person.m
+c00000000506E751200000000000000E5
+t1349416210
+s229
+
+N/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/Sudent.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/Sudent.m
+c00000000506E6BAE000000000000010C
+t1349413806
+s268
+
+N/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/asdfASD/AppDelegate.h
+c00000000506C084200000000000002A6
+t1349257282
+s678
+
+N/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/asdfASD/AppDelegate.m
+c00000000506C166A0000000000001B6A
+t1349260906
+s7018
+
+N/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/asdfASD/asdfASD-Prefix.pch
+c00000000506C029D000000000000015F
+t1349255837
+s351
+
+N/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/asdfASD/asdfASD.xcdatamodeld
+c00000000506E752E0000000000000088
+t1349416238
+s136
+
+N/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/asdfASD/en.lproj/InfoPlist.strings
+c00000000506C029D000000000000002D
+t1349255837
+s45
+
+N/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/asdfASD/main.m
+c00000000506C029D0000000000000150
+t1349255837
+s336
+
+N/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/testclass.h
+c00000000506D37DE00000000000000E9
+t1349335006
+s233
+
+N/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/testclass.m
+c00000000506D37D900000000000000FB
+t1349335001
+s251
+
+NasdfASD/asdfASD-Info.plist
+c00000000506C029D0000000000000494
+t1349255837
+s1172
+
+CBuild AST from "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/Mainview.m"
+r0
+
+CBuild AST from "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/Person.m"
+r0
+
+CBuild AST from "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/Sudent.m"
+r0
+
+CBuild AST from "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/asdfASD/AppDelegate.m"
+r0
+
+CBuild AST from "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/asdfASD/main.m"
+r0
+
+CBuild AST from "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/testclass.m"
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies5abb7de8da1eb641^40df7ee8da1eb641^---0#1#0#--18"Check dependencies36"E3304669-D736-4344-A496-8157B4FFC042-
+
+CCompileC DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/Objects-normal/i386/AppDelegate.o "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/asdfASD/AppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s370953994.157589
+e370953994.320563
+r1
+xCompileC
+xDerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/Objects-normal/i386/AppDelegate.o
+x/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/asdfASD/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/asdfASD/AppDelegate.mf585280a4f1cb641^b20f520a4f1cb641^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/ishan/Desktop/2012:07:27/PAST%20PROJECTS/xcodetesting/asdfASD/asdfASD/AppDelegate.m0000000000000000^4057"CompileC DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/Objects-normal/i386/AppDelegate.o asdfASD/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/asdfASD-generated-files.hmap" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/asdfASD-own-target-headers.hmap" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/asdfASD-all-target-headers.hmap" -iquote "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/asdfASD-project-headers.hmap" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/include" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/DerivedSources/i386" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/DerivedSources" "-F/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator" -include "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/PrecompiledHeaders/asdfASD-Prefix-eycuhvzsfqdalmeovikbktzorijx/asdfASD-Prefix.pch" -MMD -MT dependencies -MF "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/Objects-normal/i386/AppDelegate.d" --serialize-diagnostics "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/Objects-normal/i386/AppDelegate.dia" -c "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/asdfASD/AppDelegate.m" -o "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/Objects-normal/i386/AppDelegate.o"36"989EE2E9-75D9-4196-880E-E5512515757A-
+
+CCompileC DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/Objects-normal/i386/Mainview.o "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/Mainview.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s371120872.512240
+e371120872.599700
+r1
+xCompileC
+xDerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/Objects-normal/i386/Mainview.o
+x/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/Mainview.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/Mainview.mb54f83e8da1eb641^d78799e8da1eb641^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/ishan/Desktop/2012:07:27/PAST%20PROJECTS/xcodetesting/asdfASD/Mainview.m0000000000000000^4023"CompileC DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/Objects-normal/i386/Mainview.o Mainview.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/asdfASD-generated-files.hmap" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/asdfASD-own-target-headers.hmap" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/asdfASD-all-target-headers.hmap" -iquote "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/asdfASD-project-headers.hmap" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/include" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/DerivedSources/i386" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/DerivedSources" "-F/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator" -include "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/PrecompiledHeaders/asdfASD-Prefix-eycuhvzsfqdalmeovikbktzorijx/asdfASD-Prefix.pch" -MMD -MT dependencies -MF "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/Objects-normal/i386/Mainview.d" --serialize-diagnostics "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/Objects-normal/i386/Mainview.dia" -c "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/Mainview.m" -o "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/Objects-normal/i386/Mainview.o"36"BFB876CE-FDA6-4D16-BEA5-BDBD92FFAF4D-
+
+CCompileC DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/Objects-normal/i386/Person.o "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/Person.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s371109038.505570
+e371109038.534557
+r1
+xCompileC
+xDerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/Objects-normal/i386/Person.o
+x/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/Person.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/Person.m969681aeac1eb641^88d888aeac1eb641^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/ishan/Desktop/2012:07:27/PAST%20PROJECTS/xcodetesting/asdfASD/Person.m0000000000000000^4011"CompileC DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/Objects-normal/i386/Person.o Person.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/asdfASD-generated-files.hmap" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/asdfASD-own-target-headers.hmap" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/asdfASD-all-target-headers.hmap" -iquote "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/asdfASD-project-headers.hmap" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/include" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/DerivedSources/i386" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/DerivedSources" "-F/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator" -include "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/PrecompiledHeaders/asdfASD-Prefix-eycuhvzsfqdalmeovikbktzorijx/asdfASD-Prefix.pch" -MMD -MT dependencies -MF "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/Objects-normal/i386/Person.d" --serialize-diagnostics "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/Objects-normal/i386/Person.dia" -c "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/Person.m" -o "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/Objects-normal/i386/Person.o"36"F8BB4C10-D9D7-4517-8557-A1D3C1883D6D-
+
+CCompileC DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/Objects-normal/i386/Sudent.o "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/Sudent.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s371106606.928375
+e371106607.082471
+r1
+xCompileC
+xDerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/Objects-normal/i386/Sudent.o
+x/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/Sudent.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/Sudent.m4f3dee2ea31eb641^1329152fa31eb641^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/ishan/Desktop/2012:07:27/PAST%20PROJECTS/xcodetesting/asdfASD/Sudent.m0000000000000000^4011"CompileC DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/Objects-normal/i386/Sudent.o Sudent.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/asdfASD-generated-files.hmap" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/asdfASD-own-target-headers.hmap" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/asdfASD-all-target-headers.hmap" -iquote "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/asdfASD-project-headers.hmap" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/include" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/DerivedSources/i386" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/DerivedSources" "-F/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator" -include "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/PrecompiledHeaders/asdfASD-Prefix-eycuhvzsfqdalmeovikbktzorijx/asdfASD-Prefix.pch" -MMD -MT dependencies -MF "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/Objects-normal/i386/Sudent.d" --serialize-diagnostics "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/Objects-normal/i386/Sudent.dia" -c "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/Sudent.m" -o "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/Objects-normal/i386/Sudent.o"36"51244986-D003-4116-AAA5-A55FA2265DB7-
+
+CCompileC DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/Objects-normal/i386/main.o "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/asdfASD/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s370953994.157416
+e370953994.224888
+r1
+xCompileC
+xDerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/Objects-normal/i386/main.o
+x/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/asdfASD/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/asdfASD/main.m0b7d280a4f1cb641^7991390a4f1cb641^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/ishan/Desktop/2012:07:27/PAST%20PROJECTS/xcodetesting/asdfASD/asdfASD/main.m0000000000000000^4015"CompileC DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/Objects-normal/i386/main.o asdfASD/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/asdfASD-generated-files.hmap" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/asdfASD-own-target-headers.hmap" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/asdfASD-all-target-headers.hmap" -iquote "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/asdfASD-project-headers.hmap" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/include" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/DerivedSources/i386" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/DerivedSources" "-F/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator" -include "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/PrecompiledHeaders/asdfASD-Prefix-eycuhvzsfqdalmeovikbktzorijx/asdfASD-Prefix.pch" -MMD -MT dependencies -MF "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/Objects-normal/i386/main.d" --serialize-diagnostics "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/Objects-normal/i386/main.dia" -c "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/asdfASD/main.m" -o "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/Objects-normal/i386/main.o"36"3B6281A3-DBFE-44D5-9F41-336E45E5CEE7-
+
+CCompileC DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/Objects-normal/i386/testclass.o "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/testclass.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s371027821.706236
+e371027821.746226
+r1
+xCompileC
+xDerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/Objects-normal/i386/testclass.o
+x/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/testclass.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/testclass.m:11:17: warning: incomplete implementation [-Wincomplete-implementation]
+o@implementation testclass
+o                ^
+o/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/testclass.h:16:1: note: method definition for 'loaddata' not found
+o+(void)loaddata;
+o^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/testclass.m9df2b46d6f1db641^9e07bf6d6f1db641^-369"/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/testclass.m:11:17: warning: incomplete implementation [-Wincomplete-implementation]@implementation testclass                ^/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/testclass.h:16:1: note: method definition for 'loaddata' not found+(void)loaddata;^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@25"Incomplete implementation-371027821#18446744073709551615#0#1(2@42"Method definition for 'loaddata' not found-371027821#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@96"file://localhost/Users/ishan/Desktop/2012:07:27/PAST%20PROJECTS/xcodetesting/asdfASD/testclass.h0000000000000000^15#0#15#0#211#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@96"file://localhost/Users/ishan/Desktop/2012:07:27/PAST%20PROJECTS/xcodetesting/asdfASD/testclass.m0000000000000000^10#16#10#16#173#0#14"Semantic Issue--0#0#0#-19%DVTDocumentLocation4@96"file://localhost/Users/ishan/Desktop/2012:07:27/PAST%20PROJECTS/xcodetesting/asdfASD/testclass.m0000000000000000^4029"CompileC DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/Objects-normal/i386/testclass.o testclass.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/asdfASD-generated-files.hmap" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/asdfASD-own-target-headers.hmap" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/asdfASD-all-target-headers.hmap" -iquote "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/asdfASD-project-headers.hmap" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/include" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/DerivedSources/i386" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/DerivedSources" "-F/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator" -include "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/PrecompiledHeaders/asdfASD-Prefix-eycuhvzsfqdalmeovikbktzorijx/asdfASD-Prefix.pch" -MMD -MT dependencies -MF "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/Objects-normal/i386/testclass.d" --serialize-diagnostics "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/Objects-normal/i386/testclass.dia" -c "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/testclass.m" -o "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/Objects-normal/i386/testclass.o"36"ECDBBEDD-85B5-4250-8F23-10F55BF34777-
+
+CCompileXIB "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/Mainview.xib"
+s370953994.420720
+e370953997.606937
+r1
+xCompileXIB
+x/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/Mainview.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compiling /Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/Mainview.xibffcd6b0a4f1cb641^915f9b0d4f1cb641^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/ishan/Desktop/2012:07:27/PAST%20PROJECTS/xcodetesting/asdfASD/Mainview.xib0000000000000000^927"CompileXIB Mainview.xib    cd "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/asdfASD.app/Mainview.nib" "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/Mainview.xib" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk36"F8BD951C-4DE1-48BC-869B-F7692D1D009B-
+
+CCopyStringsFile "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/asdfASD.app/en.lproj/InfoPlist.strings" asdfASD/en.lproj/InfoPlist.strings
+s370953716.623441
+e370953716.665448
+r1
+xCopyStringsFile
+x/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/asdfASD.app/en.lproj/InfoPlist.strings
+xasdfASD/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Copy asdfASD/en.lproj/InfoPlist.stringsceaa9ff44d1cb641^255aaaf44d1cb641^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/ishan/Desktop/2012:07:27/PAST%20PROJECTS/xcodetesting/asdfASD/asdfASD/en.lproj/InfoPlist.strings0000000000000000^693"CopyStringsFile DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/asdfASD.app/en.lproj/InfoPlist.strings asdfASD/en.lproj/InfoPlist.strings    cd "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/asdfASD.app/en.lproj" -- asdfASD/en.lproj/InfoPlist.strings36"3575C3B4-9176-4C7F-BD24-800CC6FA5366-
+
+CDataModelVersionCompile "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/asdfASD.app/asdfASD.momd" "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/asdfASD/asdfASD.xcdatamodeld"
+s371109038.497484
+e371109038.768492
+r1
+xDataModelVersionCompile
+x/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/asdfASD.app/asdfASD.momd
+x/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/asdfASD/asdfASD.xcdatamodeld
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"DataModelVersionCompile DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/asdfASD.app/asdfASD.momd asdfASD/asdfASD.xcdatamodeldf46f7faeac1eb641^d6c6c4aeac1eb641^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/ishan/Desktop/2012:07:27/PAST%20PROJECTS/xcodetesting/asdfASD/asdfASD/asdfASD.xcdatamodeld/0000000000000000^966"DataModelVersionCompile DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/asdfASD.app/asdfASD.momd asdfASD/asdfASD.xcdatamodeld    cd "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/usr/bin/momc -XD_MOMC_SDKROOT=/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -XD_MOMC_IOS_TARGET_VERSION=5.1 -MOMC_PLATFORMS iphonesimulator -MOMC_PLATFORMS iphoneos -XD_MOMC_TARGET_VERSION=10.6 "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/asdfASD/asdfASD.xcdatamodeld" "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/asdfASD.app/asdfASD.momd"36"4138D41B-F62F-45D3-BF3D-0F7FC8870F5E-
+
+CGenerateDSYMFile "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/asdfASD.app.dSYM" "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/asdfASD.app/asdfASD"
+s371120872.647688
+e371120872.665482
+r1
+xGenerateDSYMFile
+x/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/asdfASD.app.dSYM
+x/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/asdfASD.app/asdfASD
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection151"Generating /Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/asdfASD.app.dSYM7ee5a5e8da1eb641^b85baae8da1eb641^---0#0#0#-19%DVTDocumentLocation2@159"file://localhost/Users/ishan/Desktop/2012:07:27/PAST%20PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/asdfASD.app.dSYM/0000000000000000^840"GenerateDSYMFile DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/asdfASD.app.dSYM DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/asdfASD.app/asdfASD    cd "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/dsymutil "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/asdfASD.app/asdfASD" -o "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/asdfASD.app.dSYM"36"52DD5E01-6446-429D-9BC0-66B50BBB2DA2-
+
+CLd "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/asdfASD.app/asdfASD" normal i386
+s371120872.607230
+e371120872.640417
+r1
+xLd
+x/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/asdfASD.app/asdfASD
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection148"Link /Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/asdfASD.app/asdfASDc8949be8da1eb641^6ff2a3e8da1eb641^---0#0#0#--1481"Ld DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/asdfASD.app/asdfASD normal i386    cd "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk "-L/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator" "-F/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator" -filelist "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/Objects-normal/i386/asdfASD.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -framework UIKit -framework Foundation -framework CoreGraphics -framework CoreData -o "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/asdfASD.app/asdfASD"36"EB566FE8-2E39-4843-BE93-EC12510AEF1A-
+
+CProcessInfoPlistFile "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/asdfASD.app/Info.plist" asdfASD/asdfASD-Info.plist
+s370953713.500350
+e370953713.505128
+r1
+xProcessInfoPlistFile
+x/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/asdfASD.app/Info.plist
+xasdfASD/asdfASD-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection34"Process asdfASD/asdfASD-Info.plist373580f14d1cb641^9a9387f14d1cb641^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/ishan/Desktop/2012:07:27/PAST%20PROJECTS/xcodetesting/asdfASD/asdfASD/asdfASD-Info.plist0000000000000000^827"ProcessInfoPlistFile DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/asdfASD.app/Info.plist asdfASD/asdfASD-Info.plist    cd "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility asdfASD/asdfASD-Info.plist -genpkginfo "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/asdfASD.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/asdfASD.app/Info.plist"36"FCEC64BC-B353-492A-A4C9-9D7A9FE9884D-
+
+CProcessPCH "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/PrecompiledHeaders/asdfASD-Prefix-eycuhvzsfqdalmeovikbktzorijx/asdfASD-Prefix.pch.pth" asdfASD/asdfASD-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s370953713.513925
+e370953715.459859
+r1
+xProcessPCH
+x/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/PrecompiledHeaders/asdfASD-Prefix-eycuhvzsfqdalmeovikbktzorijx/asdfASD-Prefix.pch.pth
+xasdfASD/asdfASD-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile asdfASD/asdfASD-Prefix.pchc2c083f14d1cb641^bbb875f34d1cb641^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/ishan/Desktop/2012:07:27/PAST%20PROJECTS/xcodetesting/asdfASD/asdfASD/asdfASD-Prefix.pch0000000000000000^3880"ProcessPCH DerivedData/asdfASD/Build/Intermediates/PrecompiledHeaders/asdfASD-Prefix-eycuhvzsfqdalmeovikbktzorijx/asdfASD-Prefix.pch.pth asdfASD/asdfASD-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/asdfASD-generated-files.hmap" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/asdfASD-own-target-headers.hmap" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/asdfASD-all-target-headers.hmap" -iquote "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/asdfASD-project-headers.hmap" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/include" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/DerivedSources/i386" "-I/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/asdfASD.build/Debug-iphonesimulator/asdfASD.build/DerivedSources" "-F/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator" --serialize-diagnostics "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/PrecompiledHeaders/asdfASD-Prefix-eycuhvzsfqdalmeovikbktzorijx/asdfASD-Prefix.pch.dia" -c "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/asdfASD/asdfASD-Prefix.pch" -o "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/PrecompiledHeaders/asdfASD-Prefix-eycuhvzsfqdalmeovikbktzorijx/asdfASD-Prefix.pch.pth" -MMD -MT dependencies -MF "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Intermediates/PrecompiledHeaders/asdfASD-Prefix-eycuhvzsfqdalmeovikbktzorijx/asdfASD-Prefix.pch.d"36"1F7AAEF9-6B2D-474F-9F7B-59A2B589032C-
+
+CProcessPCH "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Index/PrecompiledHeaders/asdfASD-Prefix-bdpninxvrgoqreacrrxziugwnkkf_ast/asdfASD-Prefix.pch.pth" asdfASD/asdfASD-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/asdfASD.app"
+s371120872.681554
+e371120872.686740
+r1
+xTouch
+x/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/asdfASD.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection141"Touch /Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/asdfASD.appad88aee8da1eb641^abcdafe8da1eb641^---0#0#0#--506"Touch DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/asdfASD.app    cd "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/ishan/Desktop/2012:07:27/PAST PROJECTS/xcodetesting/asdfASD/DerivedData/asdfASD/Build/Products/Debug-iphonesimulator/asdfASD.app"36"8843F872-C50D-41B4-A717-B763F3AB2931-
+
